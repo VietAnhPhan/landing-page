@@ -119,3 +119,20 @@ header {
     object-fit: cover;
     border-radius: 15px;
 }
+.quote{
+    padding: 100px 0;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author{
+  text-align: right;
+  font-weight: 900;
+}
